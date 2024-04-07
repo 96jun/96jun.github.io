@@ -158,7 +158,7 @@ npm run dev
 
 // 포트폴리오 최상단의 제목으로 사용됩니다. 
   "resumeTitle": {
-    "title": "Hong Gil Dong"
+    "title": "Park Sang Jun"
   },
 
 
@@ -303,7 +303,7 @@ id는 **배열에서의 순서(index)** 라고 생각하고 작성해주시면 �
 ```json
 
   "resumeTitle": {
-    "title": "Hong Gil Dong"
+    "title": "Park Sang Jun"
   }
 
 ```
@@ -333,7 +333,7 @@ id는 **배열에서의 순서(index)** 라고 생각하고 작성해주시면 �
 ```json
 
   "information": {
-    "name": "홍길동", 
+    "name": "박상준", 
     "contact": [ 
       { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true },
       { "id": 1, "name": "Github", "href": "https://github.com/honggildong" },
@@ -660,21 +660,21 @@ theme: {
  * @description SEO를 위해 본인의 정보로 수정해주세요.
  */
 const DEFAULT_SEO = {
-  title: "홍길동 | Front-End Dev",
+  title: "박상준 | Front-End Dev",
   description: "안녕하세요, 프론트엔드 개발자 홍길동입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
     url: "https://www.naver.com/",
-    title: "홍길동 | Front-End Dev",
-    site_name: "홍길동 | Front-End Dev",
+    title: "박상준 | Front-End Dev",
+    site_name: "빅상준 | Front-End Dev",
     images: [
       {
         url: "/share.png", // 카카오톡을 비롯한 공유용 이미지 경로 public/share.png에 원하는 이미지를 저장해주세요.
         width: 285,
         height: 167,
-        alt: "홍길동 | Front-End Dev",
+        alt: "박상준 | Front-End Dev",
       },
     ],
   },
@@ -687,11 +687,11 @@ const DEFAULT_SEO = {
   additionalMetaTags: [
     {
       name: "application-name",
-      content: "홍길동 | Front-End Dev",
+      content: "박상준 | Front-End Dev",
     },
     {
       name: "msapplication-tooltip",
-      content: "홍길동 | Front-End Dev",
+      content: "박상준 | Front-End Dev",
     },
     {
       name: "viewport",

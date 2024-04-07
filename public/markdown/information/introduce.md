@@ -1,7 +1,9 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- Name : 박상준
+- Birth : 1996.03.23
+- Email : tkdwns1525@naver.com
+- Phone : 010-2959-6409
+- Address : 인천 서구 완정로 64번길 7
+- Hobby : 액티비티 스포츠 주짓수 
+- Motto : **大海不棄淸濁** (대해불기청탁) : 큰 바다는 맑은 물과 흐린 물 모두를 버리지 않는다.
+- **"저울질하지 않고 바다처럼 넓은 가슴으로 끌어안은 채 살아가고 싶다"**
+- 취미 : 액티비티 스포츠 주짓수 
